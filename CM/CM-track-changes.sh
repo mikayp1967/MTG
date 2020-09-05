@@ -1,4 +1,4 @@
 while read expansion ;
  do printf "${expansion}\n"
- grep "^${expansion}," CM-prices-*|sed "s/CM-prices-/     /;s/\:${expansion}\,/ - /"
+ grep "^${expansion}," data/CM-prices-*|sed "s/data.CM-prices-/     /;s/\:${expansion}\,/ - /"
  done  < expansion-list

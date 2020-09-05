@@ -27,8 +27,8 @@
     printf "${expansion},${average}\n">> $OUTFILE
   else
     printf "NO DATA FOR ${expansion}\n"
-
-
-
   fi
+
+# Cleanup
+  rm CM-raw.htm CM-raw2.htm
 
