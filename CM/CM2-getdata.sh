@@ -1,0 +1,17 @@
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Conspiracy-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Journey-into-Nyx-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Born-of-the-Gods-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Theros-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Gatecrash-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Return-to-Ravnica-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Avacyn-Restored-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Dark-Ascension-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Innistrad-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Rise-of-the-Eldrazi-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Stronghold-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Weatherlight-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Visions-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Mirage-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Alliances-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Ice-Age-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Revised-Booster-Box
