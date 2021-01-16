@@ -13,7 +13,7 @@
 
 # Separate prices, strip some guff
   cat CM-raw.htm |sed 's/<div id="articleRow/\
-<div id="articleRow/g'|grep articleRow |grep "this,.English."|head -3 > CM-raw2.htm
+<div id="articleRow/g'|grep articleRow |grep "this,'English'"|head -3 > CM-raw2.htm
   NUM_BOXES=$(wc -l CM-raw2.htm|awk '{print $1}')
   printf "Number of lines: ${NUM_BOXES}"
 
