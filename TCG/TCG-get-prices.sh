@@ -1,6 +1,6 @@
  #!/usr/bin/bash
 
- OUTFILE="TCG-prices-"$(date +'%Y%m%d')
+ OUTFILE="data/TCG-prices-"$(date +'%Y%m%d')
  cat /dev/null > $OUTFILE
  
  
