@@ -11,21 +11,33 @@
 		"Mystery")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/mystery-booster-retail-exclusives/mystery-booster-booster-box-retail-exclusive"
 			;;
+		"kaldheim-set")
+			EXPAN_URL="https://shop.tcgplayer.com/magic/kaldheim/kaldheim-set-booster-display"
+			;;
+		"commander-legends")
+			EXPAN_URL="https://shop.tcgplayer.com/magic/commander-legends/commander-legends-draft-booster-box"
+        		;;
+		"kaldheim-set")
+			EXPAN_URL=":wqhttps://shop.tcgplayer.com/magic/kaldheim/kaldheim-set-booster-box"
+        		;;
+		"kaldheim-draft")
+			EXPAN_URL="https://shop.tcgplayer.com/magic/kaldheim/kaldheim-draft-booster-box"
+        		;;
 		"Zendikar-Rising-Set")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/zendikar-rising/zendikar-rising-set-booster-display"
 			;;
 		"Zendikar-Rising-Draft")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/zendikar-rising/zendikar-rising-draft-booster-box"
-		;;
+        		;;
 		"Core-2021")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/core-set-2021/core-set-2021-booster-box"
-		;;
+        		;;
 		"Core-2020")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/core-set-2021/core-set-2020-booster-box"
-		;;
+        		;;
 		"Core-2019")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/core-set-2021/core-set-2019-booster-box"
-		;;
+        		;;
 	esac
 
 	curl -k ${EXPAN_URL} > /tmp/TCG1.html
