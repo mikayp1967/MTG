@@ -1,3 +1,6 @@
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Commander-Legends-Draft-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Kaldheim-Draft-Booster-Box
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Kaldheim-Set-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Jumpstart-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Zendikar-Rising-Draft-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Zendikar-Rising-Set-Booster-Box

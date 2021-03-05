@@ -10,6 +10,6 @@ curl 'https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Revised-Booster
   -H 'Sec-Fetch-Dest: document' \
   -H 'Referer: https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Jumpstart-Booster-Box' \
   -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
-  -H 'Cookie: cookies_consent=accepted; __cfduid=d6b511ac4a01ab4e0b720dea3e607cc7c1599607337; PHPSESSID=g5npqo800cs4ip3us7o8kopepi' \
+  -H 'Cookie: cookies_consent=accepted; __cfduid=d6b511ac4a01ab4e0b720dea3e607cc7c1599607337; PHPSESSID=8oj15lum0nmmrb1n2ok6cep1f8' \
   --compressed \
   > CM-raw.htm
