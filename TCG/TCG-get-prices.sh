@@ -11,6 +11,12 @@
 		"Mystery")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/mystery-booster-retail-exclusives/mystery-booster-booster-box-retail-exclusive"
 			;;
+		"time-spiral-remastered")
+			EXPAN_URL="https://shop.tcgplayer.com/magic/time-spiral-remastered/time-spiral-remastered-draft-booster-box"
+			;;
+		"kaldheim-collector")
+			EXPAN_URL="https://shop.tcgplayer.com/magic/kaldheim/kaldheim-collector-booster-display"
+			;;
 		"kaldheim-set")
 			EXPAN_URL="https://shop.tcgplayer.com/magic/kaldheim/kaldheim-set-booster-display"
 			;;
