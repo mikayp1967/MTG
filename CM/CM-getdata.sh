@@ -1,3 +1,4 @@
+./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Time-Spiral-Remastered-Draft-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Commander-Legends-Draft-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Kaldheim-Draft-Booster-Box
 ./read-CM.sh https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Kaldheim-Set-Booster-Box
