@@ -1,4 +1,4 @@
-curl 'https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Time-Spiral-Remastered-Draft-Booster-Box' \
+curl 'https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Revised-Booster-Box' \
   -H 'Connection: keep-alive' \
   -H 'Cache-Control: max-age=0' \
   -H 'Upgrade-Insecure-Requests: 1' \
@@ -10,6 +10,6 @@ curl 'https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Time-Spiral-Rem
   -H 'Sec-Fetch-Dest: document' \
   -H 'Referer: https://www.cardmarket.com/en/Magic/Products/Booster-Boxes/Jumpstart-Booster-Box' \
   -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
-  -H 'Cookie: cookies_consent=accepted; __cfduid=d6b511ac4a01ab4e0b720dea3e607cc7c1599607337; PHPSESSID=b67c0qe4lhr7v2kp8c033m4s4k' \
+  -H 'Cookie: cookies_consent=accepted; __cfduid=d6b511ac4a01ab4e0b720dea3e607cc7c1599607337; PHPSESSID=ok69ts2an79q05lo31e3lrq3vs' \
   --compressed \
   > CM-raw.htm
