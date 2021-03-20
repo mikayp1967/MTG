@@ -2,6 +2,7 @@
 
 PARAM1=$1
 NUM_HIST=6
+IFS=' '
 ALL_MONTHS=$(ls -1tr data/TCG-prices*|cut -c17-22|sort|uniq)
 
 case ${PARAM1} in
