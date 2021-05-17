@@ -16,13 +16,15 @@
 			;;
 	esac
 
-	curl -k "${EXPAN_URL}-1st-edition" > /tmp/TCG1.html
+	curl -s -k "${EXPAN_URL}-1st-edition" > /tmp/TCG1.html
 	PRICE=$(cat  /tmp/TCG1.html|grep "price-point__data"|head -1|sed 's/.*\$//;s/<.*//;s/,//')
 	printf "${EXPAN}-1st,${PRICE}\n">> $OUTFILE
 
-	curl -k "${EXPAN_URL}-unlimited-edition" > /tmp/TCG1.html
+	curl -s -k "${EXPAN_URL}-unlimited-edition" > /tmp/TCG1.html
 	PRICE=$(cat  /tmp/TCG1.html|grep "price-point__data"|head -1|sed 's/.*\$//;s/<.*//;s/,//')
 	printf "${EXPAN}-Unlimited,${PRICE}\n">> $OUTFILE
+
+	tail -2 ${OUTFILE}
 	
   done < expansion-list-fab
 

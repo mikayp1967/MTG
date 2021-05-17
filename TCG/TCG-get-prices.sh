@@ -46,7 +46,7 @@
         		;;
 	esac
 
-	curl -k ${EXPAN_URL} > /tmp/TCG1.html
+	curl -k -s ${EXPAN_URL} > /tmp/TCG1.html
 
 	PRICE=$(cat  /tmp/TCG1.html|grep "price-point__data"|head -1|sed 's/.*\$//;s/<.*//;s/,//')
     
